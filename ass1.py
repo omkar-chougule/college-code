@@ -34,7 +34,7 @@ class hash:
     def display(self,c,n):
         i=0
         while(i<n):
-            print(c[i])
+            print(i,"-",c[i])
             i=i+1
 
 q=hash()
