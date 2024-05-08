@@ -1,0 +1,1 @@
+This is a sample text for testing purposes. It includes a few sentences to demonstrate various NLP tasks such as tokenization, stemming, lemmatization, and TF-IDF calculation.
